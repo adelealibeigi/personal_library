@@ -319,3 +319,5 @@ while checkInput:
     elif menuInput == 'Quit':
         checkInput = False
         print('\U0001F60E', '\U0001F44B')  # emoji
+
+        
