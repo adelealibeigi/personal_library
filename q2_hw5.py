@@ -319,9 +319,3 @@ while checkInput:
     elif menuInput == 'Quit':
         checkInput = False
         print('\U0001F60E', '\U0001F44B')  # emoji
-
-
-book= ['Symphony of the Dead'|'Behrouz Boochani'|2018|374|'English'|126]
-magazine = ['Bukhara'|['Ali Dehbashi','Darioush Ashoori']|2020|768|'Persian'|55|140]
-podcast = ['Ravaaq'|'Farzin Ranjbar'|2020|50|'Persian'|0]
-audiobook= ['The Black Swan'|'Ali Bandari'|'Nassim Nicholas Taleb'|2020|400|62|'English'|'Persian'|0]
